@@ -30,7 +30,7 @@
     property-naming-strategy: SNAKE_CASE
 
   rabbitmq:
-    host: 127.0.0.1
+    host: 42.159.80.149
     port: 5672
     username: guest
     password: guest
