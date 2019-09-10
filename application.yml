@@ -107,7 +107,7 @@ xxl:
       addresses:  http://127.0.0.1:8080/xxl-job-admin
     executor:
       appname: timing-job-execute 
-      ip: 
+      ip: 127.0.0.1
       port: 6999
       logpath:  /opt/xxl-server-logs
       logretentiondays: -1
